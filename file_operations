@@ -1,0 +1,4 @@
+filename="filewrite.txt"
+print(f"This will erase the conents of {filename}")
+input("?")
+print("Opening the file")
